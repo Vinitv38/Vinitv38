@@ -27,8 +27,8 @@ I love solving challenges, learning new skills, and collaborating on meaningful 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vinitv38&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-<!--   <img src="https://streak-stats.demolab.com/?user=Vinitv38&theme=tokyonight" alt="GitHub Streak Stats" width="48%" /> -->
-  <img src="https://streak-stats.demolab.com/?user=Vinitv38&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Vinitv38&theme=tokyonight" alt="GitHub Streak Stats" width="48%" />
+  <img src="[https://streak-stats.demolab.com/?user=Vinitv38&theme=tokyonight](https://streak-stats.demolab.com/?user=Vinitv38&theme=tokyonight)"  alt="GitHub Streak Stats" width="48%"/>
 
 </div>
 
