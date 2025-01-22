@@ -1,65 +1,42 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&color=F75990&center=true&vCenter=true&width=600&height=80&lines=Hello+World!+🌏;I'm+Vinit+Lathiwala+👨‍💻;AI+%26+ML+Enthusiast+🤖;Creative+Problem+Solver+✨;Welcome+to+My+GitHub+Universe!+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&color=7FFFDF&center=true&vCenter=true&width=600&height=80&lines=Hi+there!+👋;I'm+Vinit+Lathiwala+🌟;AI+%26+ML+Explorer+🤖;Coding+my+dreams+into+reality+✨;Welcome+to+my+GitHub+space!+🚀" alt="Typing Animation" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://i.imgur.com/Qz9u7eX.png" alt="Aesthetic Banner" width="80%" />
-</div>
+## 🌌 Welcome to My GitHub  
 
----
-
-## 🌟 About Me  
-
-Hey there! 👋 I’m **Vinit Lathiwala**, a passionate beginner in the world of technology. I love exploring new tools, solving challenging problems, and bringing ideas to life through code. My focus lies in:  
-- 🤖 **Artificial Intelligence**  
+Hello, I’m **Vinit Lathiwala**, an enthusiastic developer passionate about:  
+- 🌟 **Artificial Intelligence & Machine Learning**  
 - 🎨 **Creative Frontend Development**  
-- 🛠️ **Building Smart Solutions**  
+- 🚀 **Innovative Solutions**  
 
-I believe in **continuous learning** and **collaboration**, and I’m always open to exciting projects and ideas! 🌈  
+I love solving challenges, learning new skills, and collaborating on meaningful projects. Let’s connect and create something amazing together! 💡  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🌈 My Skills  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,flask,tensorflow,bootstrap,git,github&theme=light" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,flask,tensorflow,git,github,vscode&theme=dark" alt="Skills" />
 </div>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 My GitHub Stats  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vinitv38&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinitv38&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinitv38&layout=compact&theme=tokyonight" alt="Top Languages" width="50%" />
+  <img src="https://streak-stats.demolab.com/?user=Vinitv38&theme=tokyonight" alt="GitHub Streak Stats" width="48%" />
 </div>
 
 ---
 
-## 🌱 Fun Facts  
+## ✨ Fun Facts  
 
-- 🌌 **Space Enthusiast:** I’m captivated by the mysteries of the universe and love reading about space-time.  
-- 🎨 **Art Lover:** When I’m not coding, you’ll find me sketching or designing.  
-- 🏸 **Badminton Buff:** Playing badminton keeps me refreshed and motivated.  
-
----
-
-## ✨ Featured Projects  
-
-<div align="center">
-  <a href="https://github.com/VinitLathiwala/Aerial-Eyes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinitv38&repo=Aerial-Eyes&theme=radical" />
-  </a>
-  <a href="https://github.com/VinitLathiwala/StockBot-Advisor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinitv38&repo=StockBot-Advisor&theme=radical" />
-  </a>
-</div>
+- 🌌 **Space Enthusiast:** The mysteries of the cosmos fascinate me.  
+- 🎨 **Artistic Soul:** I enjoy sketching and designing when I’m not coding.  
+- 🏸 **Badminton Buff:** I love smashing shuttlecocks on the court!  
 
 ---
 
@@ -72,20 +49,15 @@ I believe in **continuous learning** and **collaboration**, and I’m always ope
   <a href="https://www.linkedin.com/in/vinit-lathiwala/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://vinitlathiwala.dev">
-    <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white" />
+  <a href="https://github.com/Vinitv38">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding Animation" width="300px" />
-</div>
-
----
-
-<div align="center">
-  <h3>✨ Thanks for stopping by! ✨</h3>
-  <p>⭐️ Feel free to explore my repositories and connect with me to collaborate on amazing projects! ⭐️</p>
+  <h3>🌟 Thanks for stopping by! 🌟</h3>
+  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" alt="Coding Animation" width="400px" />
+  <p>⭐️ Feel free to explore my repositories and star what you like! ⭐️</p>
 </div>
