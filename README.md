@@ -4,7 +4,8 @@
 
 ---
 
-## 🌌 **Welcome to My GitHub**  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vinitv38&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+## 🌌 **Welcome to My GitHub**  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vinitv38&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 Hello, I’m **Vinit Lathiwala**, an enthusiastic developer passionate about:  
 - 🌟 **Artificial Intelligence & Machine Learning**  
