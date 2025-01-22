@@ -27,7 +27,8 @@ I love solving challenges, learning new skills, and collaborating on meaningful 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vinitv38&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-<!--   <img src="https://streak-stats.demolab.com/?user=Vinitv38&theme=tokyonight" alt="GitHub Streak Stats" width="20%" /> -->
+  ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=Vinitv38&theme=tokyonight)
+
 </div>
 
 ---
@@ -43,7 +44,7 @@ I love solving challenges, learning new skills, and collaborating on meaningful 
 ## 💬 Let's Connect  
 
 <div align="center">
-  <a href="mailto:vinit.lathiwala@example.com">
+  <a href="mailto:vinitlathiwalav38@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/vinit-lathiwala/">
