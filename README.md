@@ -4,46 +4,45 @@
 
 ---
 
-## 🌌 Welcome to My GitHub  
+## 🌌 **Welcome to My GitHub**  
 
 Hello, I’m **Vinit Lathiwala**, an enthusiastic developer passionate about:  
 - 🌟 **Artificial Intelligence & Machine Learning**  
 - 🎨 **Creative Frontend Development**  
-- 🚀 **Innovative Solutions**  
+- 💻 **Innovative Solutions**  
+- 🧠 **Problem Solving & Algorithms**  
 
-I love solving challenges, learning new skills, and collaborating on meaningful projects. Let’s connect and create something amazing together! 💡  
+I’m constantly exploring new technologies and learning through meaningful projects. Let’s collaborate to build something impactful and exciting! 🚀  
 
 ---
 
-## 🌈 My Skills  
+## 🌈 **My Skills**  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,tailwind,nextjs,flask,django,tensorflow,java,cpp,git,github,vscode&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,tailwind,nextjs,flask,django,tensorflow,java,cpp,git,github,vscode,sql,opencv&theme=dark" alt="Skills" />
 </div>
 
 ---
 
-## 📊 My GitHub Stats  
+## 📊 **My GitHub Stats**  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vinitv38&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinitv38&layout=compact&theme=tokyonight" alt="Most Used Languages" width="48%">
-<!--   <img src="https://streak-stats.demolab.com/?user=Vinitv38&theme=tokyonight" alt="GitHub Streak Stats" width="48%" /> -->
-
-
 </div>
 
 ---
 
-## ✨ Fun Facts  
+## ✨ **Fun Facts**  
 
-- 🌌 **Space Enthusiast:** The mysteries of the cosmos fascinate me.  
-- 🎨 **Artistic Soul:** I enjoy sketching and designing when I’m not coding.  
-- 🏸 **Badminton Buff:** I love smashing shuttlecocks on the court!  
+- 🌌 **Space Enthusiast:** The vastness of space keeps me captivated.  
+- 🎨 **Artistic Soul:** Sketching and designing are my creative outlets.  
+- 🏸 **Badminton Buff:** I enjoy smashing shuttlecocks on the court!  
+- 🧑‍💻 **Techie at Heart:** I’m always looking for the next challenge to tackle!
 
 ---
 
-## 💬 Let's Connect  
+## 💬 **Let's Connect**  
 
 <div align="center">
   <a href="mailto:vinitlathiwalav38@gmail.com">
