@@ -32,12 +32,12 @@ I believe in **continuous learning** and **collaboration**, and I’m always ope
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinitLathiwala&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinitLathiwala&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinitv38&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinitv38&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinitLathiwala&layout=compact&theme=tokyonight" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinitv38&layout=compact&theme=tokyonight" alt="Top Languages" width="50%" />
 </div>
 
 ---
@@ -54,10 +54,10 @@ I believe in **continuous learning** and **collaboration**, and I’m always ope
 
 <div align="center">
   <a href="https://github.com/VinitLathiwala/Aerial-Eyes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinitLathiwala&repo=Aerial-Eyes&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinitv38&repo=Aerial-Eyes&theme=radical" />
   </a>
   <a href="https://github.com/VinitLathiwala/StockBot-Advisor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinitLathiwala&repo=StockBot-Advisor&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinitv38&repo=StockBot-Advisor&theme=radical" />
   </a>
 </div>
 
