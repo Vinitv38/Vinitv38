@@ -18,7 +18,7 @@ I love solving challenges, learning new skills, and collaborating on meaningful 
 ## 🌈 My Skills  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,flask,tensorflow,git,github,vscode&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,tailwind,nextjs,flask,django,tensorflow,java,cpp,git,github,vscode&theme=dark" alt="Skills" />
 </div>
 
 ---
