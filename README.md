@@ -19,7 +19,7 @@ I’m constantly exploring new technologies and learning through meaningful proj
 ## 🌈 **My Skills**  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,tailwind,nextjs,flask,django,fastapi,tensorflow,java,cpp,git,github,vscode,mysql,opencv,aws,docker,firebase&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,tailwind,nextjs,flask,django,fastapi,tensorflow,java,cpp,git,github,vscode,mysql,opencv,aws,docker,firebase,postman,prisma&theme=dark" alt="Skills" />
 </div>
 
 ---
