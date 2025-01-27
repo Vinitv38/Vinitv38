@@ -60,6 +60,6 @@ I’m constantly exploring new technologies and learning through meaningful proj
 
 <div align="center">
   <h3>🌟 Thanks for stopping by! 🌟</h3>
-  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" alt="Coding Animation" width="400px" />
-  <p>⭐️ Feel free to explore my repositories and star what you like! ⭐️</p>
+<!--   <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" alt="Coding Animation" width="400px" />
+  <p>⭐️ Feel free to explore my repositories and star what you like! ⭐️</p> -->
 </div>
