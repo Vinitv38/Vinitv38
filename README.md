@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&color=7FFFDF&center=true&vCenter=true&width=600&height=80&lines=Hi+there!+👋;I'm+Vinit+Lathiwala+🌟;AI+%26+ML+Explorer+🤖;Coding+my+dreams+into+reality+✨;Welcome+to+my+GitHub+universe!+🚀" />
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Vinit+Lathiwala+%F0%9F%8C%9F;AI+%2526+ML+Explorer+%F0%9F%A4%96;Coding+my+dreams+into+reality+%E2%9C%A8;Welcome+to+my+GitHub+universe!+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </div>
 
 ---
